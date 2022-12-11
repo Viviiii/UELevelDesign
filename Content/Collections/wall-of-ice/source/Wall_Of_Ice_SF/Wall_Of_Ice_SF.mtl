@@ -1,0 +1,24 @@
+# Blender MTL File: 'None'
+# Material Count: 2
+
+newmtl Base
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.062211 0.055465 0.041293
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+
+newmtl Wall_Of_Ice
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump Wall_Of_Ice_normal.jpg
+map_Kd Wall_Of_Ice.jpg
